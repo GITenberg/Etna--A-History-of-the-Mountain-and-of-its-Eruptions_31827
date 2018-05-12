@@ -1,0 +1,28 @@
+_repo: Etna--A-History-of-the-Mountain-and-of-its-Eruptions_31827
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rodwell, G. F. (George Farrer)
+    alias: Rodwell, George Farrer
+    birthdate: 1843
+    gutenberg_agent_id: '35504'
+    url: http://www.gutenberg.org/2009/agents/35504
+description: Preface; 1. History of the mountain; 2. Physical features of the mountain;
+  3. Ascent of the mountain; 4. Towns situated on the mountain; 5. Eruptions of the
+  mountain; 6. Geology and mineralogy of the mountain; Index.
+gutenberg_issued: '2010-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Etna, Mount (Italy)'
+- !lcc 'QE'
+title: 'Etna: A History of the Mountain and of its Eruptions'
+url: http://www.gutenberg.org/ebooks/31827
